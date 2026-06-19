@@ -2,6 +2,9 @@
 
 A content-based movie recommendation system built using Machine Learning and the TMDB 5000 Movies Dataset. The application recommends movies similar to a selected movie by analyzing metadata such as genres, keywords, cast, crew, and movie overviews.
 
+<img width="950" height="439" alt="image" src="https://github.com/user-attachments/assets/b60a1887-c415-4fe5-98ac-0bff8854bc52" />
+
+
 ## 🚀 Features
 
 * Recommend movies based on similarity
